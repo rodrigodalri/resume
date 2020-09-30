@@ -1,1 +1,2 @@
-# dalri.github.io
+# Resume
+rodrigodalri.github.io/resume
