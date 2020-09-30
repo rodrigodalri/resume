@@ -15,7 +15,6 @@ Characteristics: competitiveness, punctuality, responsibility, and commitment.
 ## Work Experience
 
 **Full Stack Developer - CDNTV/Technobox**
-
 **Porto Alegre, Brasil - Dec. 2019 - current**
 
 - Front-end development using the Yii and AdminLTE frameworks.
@@ -26,8 +25,7 @@ Characteristics: competitiveness, punctuality, responsibility, and commitment.
 
 
 **Researcher - Federal University of Rio Grande do Sul - UFRGS**
-
-**Porto Alegre, Brasil -Mar. 2018 - Jul. 2019**
+**Porto Alegre, Brasil - Mar. 2018 - Jul. 2019**
 
 - Research grant and graduation work
 - Internet stability under BGP stress
@@ -39,13 +37,10 @@ Characteristics: competitiveness, punctuality, responsibility, and commitment.
 
 ## Education
 
-Bachelor in Computer Engineering
-
-Federal University of Rio Grande do Sul - UFRGS
-
-Porto Alegre, Brasil
-
-Mar. 2014 - Jul. 2019
+Bachelor in Computer Engineering  
+Federal University of Rio Grande do Sul - UFRGS  
+Porto Alegre, Brasil  
+Mar. 2014 - Jul. 2019  
 
 ## Skills
 
@@ -59,77 +54,55 @@ Mar. 2014 - Jul. 2019
 
 ## Honors & Awards
 
-**2019 - Porto Alegre, Brasil**
+**2019 - Porto Alegre, Brasil**  
+Research Grant  
+PIBIC CNPq  
 
-Research Grant
+**2018 - Porto Alegre, Brasil**  
+Research Grant  
+PROBIC FAPERGS  
 
-PIBIC CNPq
-
-**2018 - Porto Alegre, Brasil**
-
-Research Grant
-
-PROBIC FAPERGS
-
-**2018 - Porto Alegre, Brasil**
-
-1st Place
-
-SIC - XXX SALÃO DE INICIAÇÃO CIENTÍFICA DA UFRGS
+**2018 - Porto Alegre, Brasil**  
+1st Place  
+SIC - XXX SALÃO DE INICIAÇÃO CIENTÍFICA DA UFRGS  
 
 ## Projects, Publications & Courses
 
 ### Publication
 
-**Graduation Work - UFRGS**
+**Graduation Work - UFRGS**  
+Porto Alegre, Brasil - Jul. 2019  
+Caracterizando a Instabilidade de Rotas na Internet via Análise de Mensagens BGP  
+Available in [Sabi](http://hdl.handle.net/10183/198526)  
 
-Porto Alegre, Brasil - Jul. 2019
+**XXXI Salão de Iniciação Científica da UFRGS**  
+Porto Alegre, Brasil - Oct. 2019  
+Caracterizando a Instabilidade de Rotas na Internet via Análise de Mensagens BGP  
+Available in [Sabi](http://hdl.handle.net/10183/209065)  
 
-Caracterizando a Instabilidade de Rotas na Internet via Análise de Mensagens BGP
-
-Available in [Sabi](http://hdl.handle.net/10183/198526)
-
-**XXXI Salão de Iniciação Científica da UFRGS**
-
-Porto Alegre, Brasil - Oct. 2019
-
-Caracterizando a Instabilidade de Rotas na Internet via Análise de Mensagens BGP
-
-Available in [Sabi](http://hdl.handle.net/10183/209065)
-
-**XXX Salão de Iniciação Científica da UFRGS**
-
-Porto Alegre, Brasil - Oct. 2018
-
-Explorando Alternativas para Abstração de Políticas de Interconexão e Estabelecimento de Confiança entre Sistemas Autônomos
-
-Available in [Sabi](http://hdl.handle.net/10183/191045)
+**XXX Salão de Iniciação Científica da UFRGS**  
+Porto Alegre, Brasil - Oct. 2018  
+Explorando Alternativas para Abstração de Políticas de Interconexão e Estabelecimento de Confiança entre Sistemas Autônomos  
+Available in [Sabi](http://hdl.handle.net/10183/191045)  
 
 ### Extension Course
 
-**Industrial Controllers Programming Laboratory**
+**Industrial Controllers Programming Laboratory**  
+Porto Alegre, Brasil - Aug. 2017  
+Department of Applied Informatics of Federal University of Rio Grande do Sul - UFRGS  
 
-Porto Alegre, Brasil - Aug. 2017
+**PCB Confection**  
+Porto Alegre, Brasil - Oct. 2014  
+Department of Applied Informatics of Federal University of Rio Grande do Sul - UFRGS  
 
-Department of Applied Informatics of Federal University of Rio Grande do Sul - UFRGS
-
-**PCB Confection**
-
-Porto Alegre, Brasil - Oct. 2014
-
-Department of Applied Informatics of Federal University of Rio Grande do Sul - UFRGS
-
-**Microcontrollers with Arduino**
-
-Porto Alegre, Brasil - Oct. 2014
-
-Department of Applied Informatics of Federal University of Rio Grande do Sul - UFRGS
+**Microcontrollers with Arduino**  
+Porto Alegre, Brasil - Oct. 2014  
+Department of Applied Informatics of Federal University of Rio Grande do Sul - UFRGS  
 
 ### Seminar
 
-**Seminário ProFuncional Team Villeroy**
-
-Porto Alegre, Brasil - May. 2020
+**Seminário ProFuncional Team Villeroy**  
+Porto Alegre, Brasil - May. 2020  
 - Como converter os principais atletas do mundo?
 - Funções articulares e padrões de movimento na prevenção de lesões.
 - Prescrição de treinamento e os principais exercícios aplicados.
