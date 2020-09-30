@@ -44,13 +44,10 @@ Mar. 2014 - Jul. 2019
 
 ## Skills
 
-**Programming Languages:** Python, C,
-
-**Transcoding Tools:** FFmpeg, Wowza, Flussonic, Nimble
-
-**Blockchain Technologies:** Hyperledger Fabric, Ethereum
-
-**Languages:** Portuguese, English
+**Programming Languages:** Python, C  
+**Transcoding Tools:** FFmpeg, Wowza, Flussonic, Nimble  
+**Blockchain Technologies:** Hyperledger Fabric, Ethereum  
+**Languages:** Portuguese, English  
 
 ## Honors & Awards
 
