@@ -14,7 +14,7 @@ Characteristics: competitiveness, punctuality, responsibility, and commitment.
 
 ## Work Experience
 
-**Full Stack Developer - CDNTV/Technobox**
+**Full Stack Developer - CDNTV/Technobox**  
 **Porto Alegre, Brasil - Dec. 2019 - current**
 
 - Front-end development using the Yii and AdminLTE frameworks.
@@ -24,7 +24,7 @@ Characteristics: competitiveness, punctuality, responsibility, and commitment.
 - Experience with various equipment for receiving and transmitting channels such as decoders, encoders, transcoders and receivers.
 
 
-**Researcher - Federal University of Rio Grande do Sul - UFRGS**
+**Researcher - Federal University of Rio Grande do Sul - UFRGS**  
 **Porto Alegre, Brasil - Mar. 2018 - Jul. 2019**
 
 - Research grant and graduation work
